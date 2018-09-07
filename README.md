@@ -1,4 +1,4 @@
-# My Machine Learning Research ([Home](https://sites.google.com/view/tianbing))
+# Machine Learning Research Introduction ([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
 * General Area: Reinforcement Learning, Large Scale Machine Learning, Deep Learning 
 * Specific Areas: Probabilistic Models, Bayesian Statistics, Applied Optimization, Robotics
