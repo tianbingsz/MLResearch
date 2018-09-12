@@ -3,7 +3,9 @@
 * General Area: Reinforcement Learning, Large Scale Machine Learning, Deep Learning 
 * Specific Areas: Probabilistic Models, Bayesian Statistics, Applied Optimization, Robotics
 
-### Recent Papers (2016 - 2018), Deep Reinforcement Learning, Robotics
+### Recent Papers and Reports (2016 - 2018), Deep Reinforcement Learning, Robotics
+* **Tianbing Xu**, Qiang Liu, Robust Policy Gradient ([Working in Progress](../master/papers/robustRL.pdf))
+
 * **Tianbing Xu**, Qiang Liu, Liang Zhao,  Jian Peng. Learning to Explore via Meta-Policy Gradient 
 ([**ICML 2018**](http://proceedings.mlr.press/v80/xu18d/xu18d.pdf), 
 [Video](https://drive.google.com/drive/folders/1b6jkRUpxmKz58gWYl8VBr51OLqvds7RI))
