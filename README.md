@@ -8,12 +8,16 @@
 
 * **Tianbing Xu**, Qiang Liu, Liang Zhao,  Jian Peng. Learning to Explore via Meta-Policy Gradient 
 ([**ICML 2018**](http://proceedings.mlr.press/v80/xu18d/xu18d.pdf), 
-[Video](https://drive.google.com/drive/folders/1b6jkRUpxmKz58gWYl8VBr51OLqvds7RI))
+[Video1](https://youtu.be/g5QdMx5HjA8), [Video2](https://youtu.be/J_7-b5zRo9w))
 
 * **Tianbing Xu**, Qiang Liu, Jian Peng.  Stochastic Variance Reduction for Policy Gradient Estimation 
 ([arXiv](https://arxiv.org/pdf/1710.06034.pdf),
-[Video](https://drive.google.com/drive/folders/14E9yRCK8Wzbf3SqMggXa1SioJLz3gFQx),
-[GitHub](https://github.com/tianbingsz/SVRG))
+[GitHub](https://github.com/tianbingsz/SVRG),
+[Ant](https://www.youtube.com/watch?v=QujVVjcnZRg),
+[Walker](https://www.youtube.com/watch?v=ZWG8XyDkbnk),
+[Swimmer](https://www.youtube.com/watch?v=dthdNtnhuiM),
+[Hopper](https://www.youtube.com/watch?v=9Eu8mmEskwQ),
+[Cheetah](https://www.youtube.com/watch?v=YheWgjt9eww))
 
 * **Tianbing Xu**, Variational Inference for Policy Gradient 
 ([arXiv](https://arxiv.org/pdf/1802.07833.pdf))
