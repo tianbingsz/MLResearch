@@ -8,6 +8,7 @@
 
 * **Tianbing Xu**, Qiang Liu, Liang Zhao,  Jian Peng. Learning to Explore via Meta-Policy Gradient 
 ([**ICML 2018**](http://proceedings.mlr.press/v80/xu18d/xu18d.pdf), 
+[Talk, from 49 min](https://videoken.com/embed/CBPyLvc6VMI),
 [Video1](https://youtu.be/g5QdMx5HjA8), [Video2](https://youtu.be/J_7-b5zRo9w))
 
 * **Tianbing Xu**, Qiang Liu, Jian Peng.  Stochastic Variance Reduction for Policy Gradient Estimation 
