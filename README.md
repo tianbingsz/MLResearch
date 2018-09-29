@@ -28,7 +28,7 @@
 [Report](https://github.com/tianbingsz/WALL-E/blob/master/Doc/report.pdf))
 
 ### Deep Learning
-SVRG for Deep Learning in Paddle.
+SVRG for Deep Learning Framework.
 ([GitHub](https://github.com/tianbingsz/PaddleSVRG))
 
 ### Large Scale Machine Learning
