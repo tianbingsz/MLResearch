@@ -23,6 +23,8 @@
 * **Tianbing Xu**, Variational Inference for Policy Gradient 
 ([arXiv](https://arxiv.org/pdf/1802.07833.pdf))
 
+* Notes on RL Paper Reading([notes](https://sites.google.com/view/tianbing/home/notes-on-deep-rl?authuser=0))
+
 ### Efficient yet simple Reinforcement Learning Research Framework 
 ([GitHub](https://github.com/tianbingsz/WALL-E), 
 [Report](https://github.com/tianbingsz/WALL-E/blob/master/Doc/report.pdf))
