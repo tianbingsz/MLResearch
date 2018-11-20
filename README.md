@@ -27,7 +27,7 @@
 
 ### Efficient yet simple Reinforcement Learning Research Framework 
 ([GitHub](https://github.com/tianbingsz/WALL-E), 
-[Report](https://github.com/tianbingsz/WALL-E/blob/master/Doc/report.pdf))
+[Report](https://github.com/tianbingsz/WALL-E/blob/master/walle_report.pdf))
 
 ### Deep Learning
 SVRG for Deep Learning Framework.
