@@ -1,4 +1,4 @@
-# Machine Learning Research and Engineering Introduction ([Home](https://sites.google.com/view/tianbing))
+# Machine Learning Research and Engineering([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
 * General Area: Reinforcement Learning, Large Scale Machine Learning, Deep Learning 
 * Specific Areas: Probabilistic Models, Bayesian Statistics, Applied Optimization, Robotics
