@@ -39,6 +39,7 @@ Efficient LR Machine Learning End-to-End Distributed Training on Spark.
 
 ### Professional Service: 
 Invited Reviewer NIPS 2018, ICML 2019
+Program Committee: UAI 2019
 
 ### Selected Publications (Before 2015)
 * **Tianbing Xu**, Jianfeng Gao, Lin Xiao, Amelia C. Regan, Online Classification Using a Voted RDA Method,  28th AAAI Conference on Artificial Intelligence, 2014 
