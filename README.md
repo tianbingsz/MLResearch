@@ -38,7 +38,7 @@ Efficient LR Machine Learning End-to-End Distributed Training on Spark.
 ([GitHub](https://github.com/tianbingsz/sparkLR))
 
 ### Professional Service: 
-Invited Reviewer NIPS 2018, ICML 2019, IROS 2019
+Invited Reviewer NIPS 2018/2019, ICML 2019, IROS 2019
 Program Committee: UAI 2019
 
 
