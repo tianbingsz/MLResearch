@@ -29,10 +29,6 @@
 ([GitHub](https://github.com/tianbingsz/WALL-E), 
 [Report](https://github.com/tianbingsz/WALL-E/blob/master/walle_report.pdf))
 
-### Deep Learning
-SVRG for Deep Learning Framework.
-([GitHub](https://github.com/tianbingsz/PaddleSVRG))
-
 ### Large Scale Machine Learning
 Efficient LR Machine Learning End-to-End Distributed Training on Spark.
 ([GitHub](https://github.com/tianbingsz/sparkLR))
