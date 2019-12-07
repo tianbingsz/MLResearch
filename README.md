@@ -4,8 +4,8 @@
 * Specific Areas: Probabilistic Learning and Variational Inference, Probabilistic Robotics
 
 ### Professional Service: 
-Invited Reviewer NIPS 2018/2019, ICML 2019/2020, IROS 2019
-Program Committee: UAI 2019/2020
+* Invited Reviewer: NIPS 2018/2019, ICML 2019/2020, IROS 2019
+* Program Committee: UAI 2019/2020
 
 ### Recent Papers and Reports (2016 - 2018), Deep Reinforcement Learning, Robotics
 * **Tianbing Xu**, Qiang Liu, Robust Policy Gradient ([Working in Progress](../master/papers/robustRL.pdf))
@@ -36,8 +36,6 @@ Program Committee: UAI 2019/2020
 ### Large Scale Machine Learning
 Efficient LR Machine Learning End-to-End Distributed Training on Spark.
 ([GitHub](https://github.com/tianbingsz/sparkLR))
-
-
 
 
 ### Selected Publications (Before 2015)
