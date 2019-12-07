@@ -1,7 +1,7 @@
 # Machine Learning Research and Engineering([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
 * General Area: Reinforcement Learning, Large Scale Machine Learning, Deep Learning 
-* Specific Areas: Probabilistic Models, Bayesian Statistics, Applied Optimization, Robotics
+* Specific Areas: Probabilistic Learning and Variational Inference, Applied Optimization, Bayesian Statistics,  Robotics
 
 ### Recent Papers and Reports (2016 - 2018), Deep Reinforcement Learning, Robotics
 * **Tianbing Xu**, Qiang Liu, Robust Policy Gradient ([Working in Progress](../master/papers/robustRL.pdf))
@@ -34,8 +34,8 @@ Efficient LR Machine Learning End-to-End Distributed Training on Spark.
 ([GitHub](https://github.com/tianbingsz/sparkLR))
 
 ### Professional Service: 
-Invited Reviewer NIPS 2018/2019, ICML 2019, IROS 2019
-Program Committee: UAI 2019
+Invited Reviewer NIPS 2018/2019, ICML 2019/2020, IROS 2019
+Program Committee: UAI 2019/2020
 
 
 ### Selected Publications (Before 2015)
