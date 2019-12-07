@@ -1,7 +1,7 @@
 # Machine Learning Research and Engineering([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
 * General Area: Reinforcement Learning, Large Scale Machine Learning, Deep Learning 
-* Specific Areas: Probabilistic Learning and Variational Inference, Applied Optimization, Bayesian Statistics,  Robotics
+* Specific Areas: Probabilistic Learning and Variational Inference, Probabilistic Robotics
 
 ### Professional Service: 
 Invited Reviewer NIPS 2018/2019, ICML 2019/2020, IROS 2019
