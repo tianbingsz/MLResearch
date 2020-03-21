@@ -4,7 +4,7 @@
 * Specific Areas: Probabilistic Learning and Variational Inference, Probabilistic Robotics
 
 ### Professional Service: 
-* Invited Reviewer: NIPS 2018/2019, ICML 2019/2020, IROS 2019
+* Invited Reviewer: NIPS 2018/2019/2020, ICML 2019/2020, IROS 2019
 * Program Committee: UAI 2019/2020
 
 ### Recent Papers and Reports (2016 - 2018), Deep Reinforcement Learning, Robotics
