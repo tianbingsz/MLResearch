@@ -1,12 +1,13 @@
 # Machine Learning Research and Engineering([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
-* General Area: Large Scale Machine Learning, Deep Learning, Reinforcement Learning
+* Reinforcement Learning, LLM, Large Scale Machine Learning and Deep Learning
+* Recently working on LLM, RL (RLFH) and applications.
 
 ### Professional Service: 
 * Invited Reviewer: NIPS 2018/2019/2020/2023, ICML 2019/2020/2021, IROS 2019
 * Program Committee: UAI 2019/2020/2021/2022/2023
 
-### Recent Papers and Reports (2016 - 2018), Deep Learning, Reinforcement Learning
+### Papers and Reports (2016 - 2018), Deep Learning, Reinforcement Learning
 * **Tianbing Xu**, Qiang Liu, Robust Policy Gradient ([Working in Progress](../master/papers/robustRL.pdf))
 
 * **Tianbing Xu**, Qiang Liu, Liang Zhao,  Jian Peng. Learning to Explore via Meta-Policy Gradient 
