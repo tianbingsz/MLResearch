@@ -1,7 +1,7 @@
 # Machine Learning Research and Engineering([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
 * Reinforcement Learning, LLM, Large Scale Machine Learning and Deep Learning
-* Recently working on LLM, RL (RLFH) and applications.
+* Recently working on LLM and applications.
 
 ### Professional Service: 
 * Invited Reviewer: NIPS 2018/2019/2020/2023, ICML 2019/2020/2021, IROS 2019
