@@ -1,6 +1,6 @@
 # Machine Learning Research and Engineering([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
-* Reinforcement Learning, LLM, Large Scale Machine Learning and Deep Learning
+* Reinforcement Learning, Large Language Models, Large Scale Machine Learning and Deep Learning
 * Recently working on LLM and applications.
 
 ### Professional Service: 
