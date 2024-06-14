@@ -47,8 +47,6 @@ Efficient LR Machine Learning End-to-End Distributed Training on Spark.
 ([TKDD 12](https://dl.acm.org/citation.cfm?id=2297459)).
 * **Tianbing Xu**, Alex Ihler. Multicore Gibbs Sampling for Unstructured, Dense Graphs, The fourteenth international conference on Artificial Intelligence and Statistics 
 ([AISTATS 2011](http://proceedings.mlr.press/v15/xu11a/xu11a.pdf))
-* Bo Long, Zhongfei (Mark) Zhang, Philip S. Yu, **Tianbing Xu**. Clustering on Complex Graphs, The 23nd National Conference on Artificial Intelligence, Chicago, Illinois, USA, 2008. 
-([AAAI 08](https://dl.acm.org/citation.cfm?id=1620174))
 
 
 
