@@ -5,7 +5,7 @@
 
 ### Professional Service: 
 * Invited Reviewer: NIPS 2018/2019/2020/2023, ICML 2019/2020/2021/2024/2025
-* Program Committee: UAI 2019/2020/2021/2022/2023/2024
+* Program Committee: UAI 2019/2020/2021/2022/2023/2024/2025
 
 ### Papers and Reports (2015 - 2018), Deep Learning, Reinforcement Learning
 * **Tianbing Xu**, Qiang Liu, Robust Policy Gradient ([Working in Progress](../master/papers/robustRL.pdf))
