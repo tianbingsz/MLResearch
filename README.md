@@ -1,7 +1,10 @@
 # Machine Learning Research and Engineering([Home](https://sites.google.com/view/tianbing))
 ### Research Area:
 * Reinforcement Learning, Large Language Models, Large Scale Machine Learning and Deep Learning
-* Recently working on [LLM + RL](https://github.com/tianbingsz/LLM) (e.g. RLHF, Reasoning, Retrieval Augmented Generation, Virtual Agent) and applications.
+* Recently working on [LLM + RL](https://github.com/tianbingsz/LLM) (e.g. Reasoning, RLHF, Virtual Assistant Agent) and applications.
+* New Paper on RL + Reasoning: [Training Large Language Models to Reason via EM Policy Gradient
+]([https://github.com/tianbingsz/LLM](https://arxiv.org/abs/2504.18587)
+ 
 
 ### Professional Service: 
 * Invited Reviewer: NIPS 2018/2019/2020/2023/2025, ICML 2019/2020/2021/2024/2025, UAI 2019-2025
