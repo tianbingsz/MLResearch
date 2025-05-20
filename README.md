@@ -2,8 +2,7 @@
 ### Research Area:
 * Reinforcement Learning, Large Language Models, Large Scale Machine Learning and Deep Learning
 * Recently working on [LLM + RL](https://github.com/tianbingsz/LLM) (e.g. Reasoning, RLHF, Virtual Assistant Agent) and applications.
-* New Paper on RL + Reasoning: [Training Large Language Models to Reason via EM Policy Gradient
-]([https://github.com/tianbingsz/LLM](https://arxiv.org/abs/2504.18587)
+* New Paper on **RL + Reasoning**: [Training Large Language Models to Reason via EM Policy Gradient](https://arxiv.org/abs/2504.18587)
  
 
 ### Professional Service: 
